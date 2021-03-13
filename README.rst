@@ -17,4 +17,4 @@ Run Test
 --------
 To run the test, run:
 
-``$ python run_test.py✨``
+``$ python run_test.py``

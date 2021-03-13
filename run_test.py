@@ -1,1 +1,3 @@
-from tests.test import *
+import pytest
+
+pytest.main()
